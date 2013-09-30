@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CrossCompilable/TestScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CrossCompilable/TestScript.cs" Line="9" Column="1" />
+      <File FileName="Assets/Editor/BuildWindow.cs" Line="203" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="J:\DocumentsJDrive\CodeTranslator\Assets\Editor\BuildWindow.cs" line="160" />
+      <Breakpoint file="J:\DocumentsJDrive\CodeTranslator\Assets\Editor\BuildWindow.cs" line="164" />
+      <Breakpoint file="/Users/n0f3/Documents/CodeTranslator/Assets/Editor/BuildWindow.cs" line="227" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets/Editor/BuildWindow.cs" line="231" offsetX="396" offsetY="3220" expression="scriptFiles" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
